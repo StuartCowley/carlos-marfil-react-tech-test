@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Snapshot Test 1`] = `
+<DocumentFragment>
+  <div
+    class="app"
+  >
+    <div
+      id="header"
+    >
+      <a
+        href="/"
+      >
+        <img
+          alt="nasa-logo"
+          class="nasa-logo"
+          src="https://cdn.cnn.com/cnnnext/dam/assets/200424060716-nasa-worm-logo.jpg"
+        />
+      </a>
+      <form
+        class="form"
+      >
+        <input
+          class="search-box"
+          placeholder="Search here"
+          type="text"
+        />
+        <button
+          class="button"
+          type="submit"
+        >
+          GO
+        </button>
+      </form>
+    </div>
+    <div
+      class="sc-bwzfXH lhcaPW moving-words"
+      direction="alternate-reverse"
+      type="pulse"
+    >
+      Welcome, use the Search Bar above to find any pictures held in the public NASA archives.
+    </div>
+  </div>
+</DocumentFragment>
+`;
